@@ -13,6 +13,8 @@
 
    header .logo  { left: 36px; }
 
+   header .logo img { width: 200px; }
+
    /* page title
    -------------------------------------------------------------------- */
    #page-title h1 { font: 46px/60px raleway-bold, sans-serif; }
@@ -425,6 +427,12 @@
 @media only screen and (max-width: 480px) {
 
    header .logo { z-index: 99999; }
+
+   header .logo img { width: 72px; }
+
+   .smallScreenOnly { display: inline; }
+
+   .largerScreenOnly {display: none; }
 
    /* page content
    -------------------------------------------------------------------- */

@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: TenorSans-Regular
+font link: https://fonts.google.com/specimen/Tenor+Sans
+font author: Denis Masharov
+font author site: https://www.behance.net/Denis_Masharov
+
+
+icon designer: Jaime Carrion
+icon designer link: /jaimecarrion
+        
+{"bg":"#EFF0F1","icon-gradient-0":"#574851","icon-gradient-1":"#95A8B1","font":"#28282D","slogan":"#3c3c41"}
+      

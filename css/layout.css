@@ -31,6 +31,12 @@
 body { background: #D2D8D8 url(../images/bg.jpg); }
 img { border-radius: 3px; }
 .content-outer { background: #fff }
+.smallScreenOnly { display: none; }
+.largerScreenOnly {display: inline; }
+ a:disabled {
+   background: #ccc;
+ }
+ 
 
 /* page title */
 #page-title {
@@ -205,7 +211,7 @@ header .logo a {
 	padding: 0;
 	border: none;
 	outline: none;
-   width: 113px;
+   width: 270px;
    height: 24px;
 }
 
@@ -1095,6 +1101,11 @@ ol.commentlist {
    line-height: 18px;
    color: #969696;
 }
+
+#team-wrapper .member-name {
+
+}
+
 #team-wrapper .member-social {
    font-size: 20px;
    font-weight: normal;
